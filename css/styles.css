@@ -1,0 +1,95 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+
+hr{
+    border: dotted #EAF6F6 6px;
+    border-bottom: none;
+    width: 4%;
+}
+
+h2{
+    font-size: 3rem;
+}
+
+p{
+    font-size: 1.5rem;
+}
+
+/*Header*/
+
+#header {
+    padding: 10%;
+}
+.parallax{
+    background-image: url(../img/header.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+}
+
+
+
+.congratulation-image{
+    border-radius: 100%;
+    width: 35%;
+}
+
+
+/*Timer*/
+#timer {
+    margin-top: 10px;
+    font-size: 1.5rem;
+    color: #999;
+    letter-spacing: -1px;
+}
+
+#timer span {
+    font-size: 3rem;
+    color: #fff;
+    margin: 0 3px 0 15px;
+}
+#timer span:first-child {
+    margin-left: 0;
+}
+
+/*General*/
+.text-white{
+    color:white;
+}
+
+.text-section{
+    font-size: 5rem;
+    font-weight: bold;
+}
+
+.hidden{
+    visibility: hidden;
+}
+
+.section-white{
+    color: #777;
+    background-color:white;
+    padding:50px 15%;
+    text-align: justify;
+}
+
+.text-black{
+    background-color: #111;
+    color: #fff;
+    padding: 18px;
+    font-size: 25px;
+    letter-spacing: 10px;
+}
+
+.together{
+    border-radius: 10%;
+    width: 25%;
+}
+
+
+
+
+
+
